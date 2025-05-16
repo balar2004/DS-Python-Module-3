@@ -1,4 +1,4 @@
-# Ex.No:3A REGEX - PATTERN MATCHING USING REGEX
+# Ex.No:3B REGEX - PATTERN MATCHING USING REGEX
 
 ## AIM  
 To Write a Python program that matches a string that begins with  "a"  followed by zero or more b's .
